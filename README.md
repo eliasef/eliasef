@@ -1,6 +1,7 @@
 ## Hello World, I'm Elias !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-Lover of Technology and Coding 💚
+                                      Eu sou o Elias Ferreira, estudante de programação e apaixonado por tecnologia.
+                                                      
 
 ## About me
 
