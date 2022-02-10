@@ -1,7 +1,7 @@
 # Hello World, I'm Elias !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 💚 Lover of Technology and Coding.  
-:coffee: Currently learning Javascript, HTML and CSS.
+:coffee: Currently learning HTML, CSS and Javascript.
 
 ## About me
 
