@@ -1,6 +1,6 @@
 ## Hello World, I'm Elias !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-                                  Sou estudante de programação e apaixonado por tecnologia.
+Sou estudante de programação e apaixonado por tecnologia 💚
                                                       
 
 ## About me
