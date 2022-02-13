@@ -1,7 +1,17 @@
-# Hello World, I'm Elias !! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+# Oi, eu sou o Elias <img width="30px" alt="GIF" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"/>
 
-💚 Lover of Technology and Coding.  
-:coffee: Currently learning HTML, CSS and Javascript.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+
+
+## Desenvolvedor Web
+
+<ul>
+  <li> 🔭 Eu sou estudante de dev Web FullStack na Trybe.
+  <li> 📚 Atualmente aprendendo tecnologias Front-end: HTML, CSS e JV.
+  <li> 📫 Siga-me no instagram: @abertocodigo
+  <li> ⚡ Quem sou eu: amante da codificação e movido por desafios.
+  
+</ul>
 
 ## About me
 
