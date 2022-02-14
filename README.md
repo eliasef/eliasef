@@ -46,6 +46,3 @@
 ![Linux](http://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=linux&logoColor=ffffff)
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- ### ⭐️ From [EliasEF](https://github.com/eliasef)
-
