@@ -8,7 +8,7 @@
 <ul>
   <li> 🔭 Eu sou estudante de dev Web FullStack na @betrybe.
   <li> 📚 Atualmente aprendendo tecnologias Front-end.
-  <li> 📫 Siga-me no instagram: @codigoabertoo
+  <li> 📫 Siga-me no instagram: @eliasef_c
   <li> ⚡ Quem sou eu: amante de jogos e coding, movido por desafios.
 </ul>
 
