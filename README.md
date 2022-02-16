@@ -8,7 +8,7 @@
 <ul>
   <li> 🔭 Eu sou estudante de dev Web FullStack na @betrybe.
   <li> 📚 Atualmente aprendendo tecnologias Front-end.
-  <li> 💪🏼 Minhas metas futuras: Continuar em constante estudo para acompanhar as tecnologias.
+  <li> 💪🏼 Minhas metas futuras: continuar em constante estudo para acompanhar as tecnologias.
   <li> ⚡ Quem sou eu: amante de jogos e coding, movido por desafios.
 </ul>
 
