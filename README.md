@@ -6,7 +6,7 @@
 ## Desenvolvedor Web
 
 <ul>
-  <li> 🔭 Eu sou estudante de dev Web FullStack na @betrybe.
+  <li> 🔭 Eu sou estudante de dev Web FullStack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
   <li> 📚 Atualmente aprendendo tecnologias Front-end.
   <li> 💪🏼 Minhas metas futuras: continuar em constante estudo para acompanhar as tecnologias.
   <li> ⚡ Quem sou eu: amante de jogos e coding, movido por desafios.
