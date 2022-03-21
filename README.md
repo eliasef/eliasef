@@ -53,11 +53,7 @@ function contatcMe() {
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasef&theme=react&line_height=40&hide=css"/>
     </a>
   <a href="https://git.io/streak-stats">
-    <br>
-    <br>
-  <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=eliasef&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-  </div>
-
+   
 ---
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
