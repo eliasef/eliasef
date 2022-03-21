@@ -1,4 +1,4 @@
-# <img width="25px" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"/> Web developer <img width="25px" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"/>
+# <img width="25px" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"/> Web Developer <img width="25px" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"/>
 
 <img align="right" src="images/my_octocat.png" alt="My octocat" width="250px">
 
