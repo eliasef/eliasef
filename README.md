@@ -1,4 +1,4 @@
-# :globe_with_meridians: Web developer :globe_with_meridians:
+# :globe_with_meridians: Web Developer :globe_with_meridians:
 
 <img align="right" src="images/my_octocat.png" alt="My octocat" width="250px">
 
