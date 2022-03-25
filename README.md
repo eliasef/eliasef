@@ -31,13 +31,12 @@
   <br>
   
 <div align="center"> 
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliasef&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasef&theme=react&line_height=40&hide=css"/>
-    </a>
-  <a href="https://git.io/streak-stats">
+     <a href="https://github.com/eliasef">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=eliasef&show_icons=true&theme=react" alt="eliasef" />
+</a>
+<a href="https://github.com/eliasef">
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasef&layout=compact&theme=react" alt="eliasef" />
+</a>
     
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
