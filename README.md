@@ -40,5 +40,3 @@
     
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://www.beecrowd.com.br/judge/pt/profile/652332" target="_blank"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__negativoHor-vazado-small-PNG-1024x246.png" width="150px" target="_blank"></a>
