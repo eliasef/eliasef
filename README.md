@@ -16,10 +16,14 @@
 ### Technologies and Tools 🛠️
 
 <div>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="GIT" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
+  <img align="center" alt="GIT" height="30" width="36" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
+  <img align="center" alt="GIT" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
 
 ---
 
@@ -34,9 +38,18 @@
 <div align="center">
 <table>
   <tr>
+   <td valign="top" width="50%">
+      <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex</a></h2>
+      <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.jpg" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <p>:us: Pokédex project with cards showing 8 pokémons, with interactivity and UI interface.</p>
+      <p>:brazil: Projeto Pokédex com cards exibindo 8 pokémons, com interatividade e interface UI.</p>
+    </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://eliasef.github.io/to-do-list/">To-Do List</a></h2>
-      <a href="https://eliasef.github.io/to-do-list/"><img width="100%" src="./images/todo-list.png" alt="Project-preview" /></a>
+      <a href="https://eliasef.github.io/to-do-list/"><img width="100%" src="./images/todo-list.jpg" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage</em></p>
