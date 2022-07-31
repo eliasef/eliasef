@@ -3,11 +3,11 @@
 <div align="center">
   <img align="right" alt="GIF" height="140px" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"/>
   <div align="left" style="display: inline_block">
-    <li> 💚 I'm studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
-    <li> 💎 Level: Student
-    <li> 🏆 Learning Front-end</li>
+    <li> 💚 I'm studying Web Development at <a href="https://betrybe.com">Trybe</a>.</li>
+    <li> 💎 Level: Student.
+    <li> 🏆 Learning Front-end.</li>
     <li> 💪🏼 My future goals: to continue in constant study to keep up with the technologies.
-    <li> ⚡ Fun fact: One Piece is my favorite anime  
+    <li> ⚡ Fun fact: One Piece is my favorite anime  .
   </div>
 </div>
 
@@ -43,7 +43,7 @@
       <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript.</em></p>
       <p>:us: Pokédex project with cards showing 8 pokémons, with interactivity and UI interface.</p>
       <p>:brazil: Projeto Pokédex com cards exibindo 8 pokémons, com interatividade e interface UI.</p>
     </td>
@@ -52,7 +52,7 @@
       <a href="https://eliasef.github.io/to-do-list/"><img width="100%" src="./images/todo-list.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage.</em></p>
       <p>:us: To-Do List project to save lists in browser, delete and clear them.</p>
       <p>:brazil: Projeto de To-Do List para salvar listas no navegador, excluir e limpá-las.</p>
     </td>
