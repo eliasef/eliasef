@@ -7,7 +7,7 @@
     <li> 💎 Level: Student
     <li> 🏆 Learning Front-end</li>
     <li> 💪🏼 My future goals: to continue in constant study to keep up with the technologies.
-    <li> ⚡ Fun fact: Vikings is my favorite serie  
+    <li> ⚡ Fun fact: One Piece is my favorite anime  
   </div>
 </div>
 
