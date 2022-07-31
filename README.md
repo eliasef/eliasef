@@ -29,7 +29,23 @@
 <a href = "mailto:eliasef0305@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eliasef_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <br>
+<h1 align="center">Main Projects</h1>
+  
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://eliasef.github.io/to-do-list/">To-Do List</a></h2>
+      <a href="https://eliasef.github.io/to-do-list/"><img width="100%" src="./images/todo-list.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage</em></p>
+      <p>:us: To-Do List project to save lists in browser, delete and clear them.</p>
+      <p>:brazil: Projeto de To-Do List para salvar listas no navegador, excluir e limpá-las.</p>
+    </td>
+</table>
+<br>
+  </div>
   
 <div align="center"> 
      <a href="https://github.com/eliasef">
