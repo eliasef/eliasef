@@ -43,7 +43,7 @@
       <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, UI.</em></p>
       <p>:us: Pokédex project with cards showing 8 pokémons, with interactivity and UI interface.</p>
       <p>:brazil: Projeto Pokédex com cards exibindo 8 pokémons, com interatividade e interface UI.</p>
     </td>
