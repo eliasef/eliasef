@@ -40,13 +40,24 @@
   <tr>
    <td valign="top" width="50%">
       <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex</a></h2>
-      <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.jpg" alt="Project-preview" /></a>
+      <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, UI.</em></p>
       <p>:us: Pokédex project with cards showing 8 pokémons, with interactivity and UI interface.</p>
       <p>:brazil: Projeto Pokédex com cards exibindo 8 pokémons, com interatividade e interface UI.</p>
     </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://eliasef.github.io/calculator/">Calculator</a></h2>
+      <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/calculator.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage.</em></p>
+      <p>:us: To-Do List project to save lists in browser, delete and clear them.</p>
+      <p>:brazil: Projeto de To-Do List para salvar listas no navegador, excluir e limpá-las.</p>
+    </td>
+    </tr>
+    <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://eliasef.github.io/to-do-list/">To-Do List</a></h2>
       <a href="https://eliasef.github.io/to-do-list/"><img width="100%" src="./images/todo-list.jpg" alt="Project-preview" /></a>
