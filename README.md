@@ -52,7 +52,7 @@
       <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/calculator.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), HTML, CSS, JavaScript.</em></p>
       <p>:us: To-Do List project to save lists in browser, delete and clear them.</p>
       <p>:brazil: Projeto de To-Do List para salvar listas no navegador, excluir e limpá-las.</p>
     </td>
@@ -64,8 +64,8 @@
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage.</em></p>
-      <p>:us: To-Do List project to save lists in browser, delete and clear them.</p>
-      <p>:brazil: Projeto de To-Do List para salvar listas no navegador, excluir e limpá-las.</p>
+      <p>:us: Calculator project, being able to add, subtract, multiply and divide.</p>
+      <p>:brazil: Projeto de calculadora, podendo somar, diminuir, multiplicar e dividir.</p>
     </td>
 </table>
 <br>
