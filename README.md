@@ -64,7 +64,7 @@
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage.</em></p>
-      <p>:us: </p> To-Do List project to save lists in browser, delete and clear them.</p>      
+      <p>:us: To-Do List project to save lists in browser, delete and clear them.</p>      
       <p>:brazil: Projeto de To-Do List para salvar listas no navegador, excluir e limpá-las.</p> 
     </td>
 </table>
