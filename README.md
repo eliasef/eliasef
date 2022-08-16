@@ -49,7 +49,7 @@
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://eliasef.github.io/calculator/">Calculator</a></h2>
-      <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/calculator.png" alt="Project-preview" /></a>
+      <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/calculator2.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), HTML, CSS, JavaScript.</em></p>
