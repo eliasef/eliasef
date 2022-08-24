@@ -54,7 +54,7 @@
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, HTML, CSS, JavaScript.</em></p>
       <p>:us: Trybeflix is a Redux project where I learned store manipulation concepts, through dispatch, action, reducer, state and store.</p>
-      <p>:brazil: Trybeflix é um projeto Redux onde aprendi conceitos de manipulação de loja, através de dispatch, action, reducer, state e store.</p>
+      <p>:brazil: Trybeflix é um projeto Redux onde aprendi conceitos de manipulação de store, através de dispatch, action, reducer, state e store.</p>
     </td>
     </tr>
     <tr>
