@@ -75,10 +75,10 @@
   
 <div align="center"> 
      <a href="https://github.com/eliasef">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=eliasef&show_icons=true&theme=react" alt="eliasef" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=eliasef&show_icons=true&theme=cobalt" alt="eliasef" />
 </a>
 <a href="https://github.com/eliasef">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasef&layout=compact&theme=react" alt="eliasef" />
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasef&layout=compact&theme=cobalt" alt="eliasef" />
 </a>
     
 
