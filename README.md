@@ -48,6 +48,17 @@
       <p>:brazil: Projeto Pokédex com cards exibindo 8 pokémons, com interatividade e interface UI.</p>
     </td>
     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://eliasef.github.io/calculator/">Trybeflix</a></h2>
+      <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/trybeflix.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, HTML, CSS, JavaScript.</em></p>
+      <p>:us: Trybeflix is a Redux project where I learned store manipulation concepts, through dispatch, action, reducer, state and store.</p>
+      <p>:brazil: Trybeflix é um projeto Redux onde aprendi conceitos de manipulação de loja, através de dispatch, action, reducer, state e store.</p>
+    </td>
+    </tr>
+    <tr>
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://eliasef.github.io/calculator/">Calculator</a></h2>
       <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/calculator2.png" alt="Project-preview" /></a>
       <br>
@@ -57,16 +68,6 @@
       <p>:brazil: Projeto de calculadora, podendo somar, diminuir, multiplicar e dividir.</p>
     </td>
     </tr>
-    <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://eliasef.github.io/to-do-list/">To-Do List</a></h2>
-      <a href="https://eliasef.github.io/to-do-list/"><img width="100%" src="./images/todo-list.jpg" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, LocalStorage.</em></p>
-      <p>:us: To-Do List project to save lists in browser, delete and clear them.</p>      
-      <p>:brazil: Projeto de To-Do List para salvar listas no navegador, excluir e limpá-las.</p> 
-    </td>
 </table>
 <br>
   </div>
