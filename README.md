@@ -48,8 +48,8 @@
       <p>:brazil: Projeto Pokédex com cards exibindo 8 pokémons, com interatividade e interface UI.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://eliasef.github.io/calculator/">Trybeflix</a></h2>
-      <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/trybeflix.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://eliasef.github.io/trybeflix/">Trybeflix</a></h2>
+      <a href="https://eliasef.github.io/trybeflix/"><img width="100%" src="./images/trybeflix.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, HTML, CSS, JavaScript.</em></p>
