@@ -16,16 +16,17 @@
 ### Technologies and Tools 🛠️
 
 <div>
-<img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+<img align="center" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-  <img align="center" alt="GIT" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-  <img align="center" alt="GIT" height="30" width="36" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-  <img align="center" alt="GIT" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
-
+  <img align="center" alt="Linux" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
+  <img align="center" alt="VSCode" height="30" width="36" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+  <img align="center" alt="Bootstrap" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="RTL" height="30" width="30" src="./images/testing-library.svg">
+  
 ---
 
 ### Contact 📝
