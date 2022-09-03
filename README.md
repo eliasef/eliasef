@@ -23,7 +23,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="GIT" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-  <img align="center" alt="GIT" height="30" width="36" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
+  <img align="center" alt="GIT" height="30" width="36" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
   <img align="center" alt="GIT" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
 
 ---
