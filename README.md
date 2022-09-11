@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-💚 I'm studying Web Development at <a href="https://betrybe.com">Trybe</a>.</li>
+I'm studying Web Development at <a href="https://betrybe.com">Trybe</a> 💚 
   </div>
 </div>
 
