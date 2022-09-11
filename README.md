@@ -1,4 +1,8 @@
-## Hi, i'm Elias
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'am+Elias!++🇧🇷;&center=true&size=30">
+  </a>
+</h1>
 
 <div align="center">
   <img align="right" alt="GIF" height="140px" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"/>
@@ -24,7 +28,8 @@
   <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="Linux" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
   <img align="center" alt="VSCode" height="30" width="36" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-  <img align="center" alt="Bootstrap" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="Bootstrap" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">  
+  <img align="center" alt="Jest" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="RTL" height="30" width="30" src="./images/testing-library.svg">
   
 ---
