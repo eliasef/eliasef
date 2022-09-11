@@ -5,11 +5,7 @@
 </h1>
 
 <div align="center">
-  <img align="right" alt="GIF" height="140px" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"/>
-  <div align="left" style="display: inline_block">
     <li> 💚 I'm studying Web Development at <a href="https://betrybe.com">Trybe</a>.</li>
-    <li> 🏆 Learning Front-end.</li>
-    <li> ⚡ Fun fact: i love Redux.
   </div>
 </div>
 
