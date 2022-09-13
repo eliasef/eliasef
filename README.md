@@ -9,7 +9,7 @@
   <div align="left" style="display: inline_block">
     <li> 💚 I'm studying Web Development at <a href="https://betrybe.com">Trybe</a>.</li>
     <li> 🏆 Learning: Front-end.</li>
-    <li> 💎 Level: Student</li>
+    <li> 💎 Level: Student.</li>
     <li> 💪 Objective: continue in constant study to keep up with the technologies.
     <li> ⚡ Fun fact: i love Redux.
   </div>
