@@ -11,7 +11,7 @@
     <li> 🏆 Learning: Front-end.</li>
     <li> 💎 Level: Student.</li>
     <li> 💪 Objective: continue in constant study to keep up with the technologies.
-    <li> ⚡ Fun fact: i love Redux.
+    <li> ⚡ Fun fact: i love Context API.
   </div>
 </div>
 
