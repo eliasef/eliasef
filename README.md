@@ -11,7 +11,7 @@ var status = {
 }
 
 const skills = {
-  frontend: [Javascript, HTML, CSS, Git, React, Redux, Context API, Browser Router, RTL, Jest, SASS/SCSS],
+  frontend: [Javascript, HTML, CSS, Git, React, Redux, Context API, Browser Router, RTL, Jest, Bootstrap],
   
   backend: [Docker],
   
