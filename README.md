@@ -1,8 +1,25 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'am+Elias!++🇧🇷;&center=true&size=30">
-  </a>
-</h1>
+# Olá!
+
+```js
+const name = 'Elias Ferreira';
+document.write("Hello World");
+
+var status = { 
+  cursando: [Desenvolvimento Full Stack na Trybe],
+  aprendendo: [Docker],
+  interesse: [Front-End]
+}
+
+const skills = {
+  frontend: [Javascript, HTML, CSS, React, Redux, Context API, Browser Router, RTL, Jest, SASS/SCSS, Git],
+  
+  backend: [Docker],
+  
+  metodologiasAgeis: [Scrum, Kanban]
+}
+
+```
+
 
 <div align="center">
   <img align="right" alt="GIF" height="140px" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"/>
