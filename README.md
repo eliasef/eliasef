@@ -4,8 +4,9 @@
 const name = 'Elias Ferreira';
 document.write("Hello World");
 
-var status = { 
-  cursando: [Desenvolvimento Full Stack na Trybe],
+var aboutMe = {
+  age: 22,
+  level: 'Junior',
   aprendendo: [Docker],
   interesse: [Front-End]
 }
