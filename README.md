@@ -51,9 +51,9 @@ const skills = {
       <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, UI.</em></p>
-      <p>:us: Pokédex project with cards showing 8 pokémons, with interactivity and UI interface.</p>
-      <p>:brazil: Projeto Pokédex com cards exibindo 8 pokémons, com interatividade e interface UI.</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, UI interface.</em></p>
+      <p>:us: Pokemóns card made with Js and UI design.</p>
+      <p>:brazil: Cards de Pokémons feito com Js e UI design.</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://eliasef.github.io/trybeflix/">Trybeflix</a></h2>
@@ -61,8 +61,8 @@ const skills = {
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, HTML, CSS, JavaScript.</em></p>
-      <p>:us: Trybeflix is a Redux project where I learned store manipulation concepts, through dispatch, action, reducer, state and store.</p>
-      <p>:brazil: Trybeflix é um projeto Redux onde aprendi conceitos de manipulação de store, através de dispatch, action, reducer, state e store.</p>
+      <p>:us: Trybeflix is a Redux preject that recommends some movies for the user.</p>
+      <p>:brazil: Trybeflix é um projeto Redux que recomenda alguns filmes para o usuário.</p>
     </td>
     </tr>
     <tr>
