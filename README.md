@@ -60,7 +60,7 @@ const skills = {
       <a href="https://eliasef.github.io/trybeflix/"><img width="100%" src="./images/trybeflix.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, HTML, CSS, JavaScript.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, HTML, CSS, JavaScript.</em></p>
       <p>:us: Trybeflix is a Redux project where I learned store manipulation concepts, through dispatch, action, reducer, state and store.</p>
       <p>:brazil: Trybeflix é um projeto Redux onde aprendi conceitos de manipulação de store, através de dispatch, action, reducer, state e store.</p>
     </td>
