@@ -8,7 +8,7 @@ var aboutMe = {
   age: 22,
   level: 'Junior',
   aprendendo: [Docker],
-  interesse: [Front-End]
+  interesse: [Back-End]
 }
 
 const skills = {
