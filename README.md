@@ -14,7 +14,7 @@ var aboutMe = {
 const skills = {
   frontend: [Javascript, HTML, CSS, Git, React, Context API, Redux, Browser Router, RTL, Jest, Bootstrap],
   
-  backend: [Docker],
+  backend: [Docker, MySQL],
   
   metodologiasAgeis: [Scrum, Kanban]
 }
