@@ -7,8 +7,8 @@ document.write("Hello World");
 var aboutMe = {
   age: 22,
   level: 'Junior',
-  aprendendo: [SQL],
-  interesse: [Back-End]
+  aprendendo: 'SQL',
+  interesse: 'Back-End'
 }
 
 const skills = {
