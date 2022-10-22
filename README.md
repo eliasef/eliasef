@@ -12,7 +12,7 @@ var aboutMe = {
 }
 
 const skills = {
-  frontend: [Javascript, HTML, CSS, Git, React, Context API, Redux, Browser Router, RTL, Jest, Bootstrap],
+  frontend: [Javascript, HTML, CSS, Git, React, Redux, Context API, Browser Router, RTL, Jest, Bootstrap],
   
   backend: [Docker, MySQL],
   
