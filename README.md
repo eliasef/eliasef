@@ -5,8 +5,7 @@ const name = 'Elias Ferreira';
 document.write("Hello World");
 
 var aboutMe = {
-  age: 22,
-  level: 'Junior',
+  cursando: 'Desenvolvimento Full Stack na Trybe',
   aprendendo: 'SQL',
   interesse: 'Back-End'
 }
