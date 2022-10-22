@@ -6,7 +6,7 @@ document.write("Hello World");
 
 var aboutMe = {
   cursando: 'Desenvolvimento Full Stack na Trybe',
-  aprendendo: 'SQL',
+  aprendendo: 'MySQL',
   interesse: 'Back-End'
 }
 
