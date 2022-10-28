@@ -6,14 +6,14 @@ document.write("Hello World");
 
 var aboutMe = {
   cursando: 'Desenvolvimento Full Stack na Trybe',
-  aprendendo: 'MySQL',
+  aprendendo: 'Node',
   interesse: 'Front-End'
 }
 
 const skills = {
   frontend: [Javascript, HTML, CSS, Git, React, Redux, Context API, Browser Router, RTL, Jest, Bootstrap],
   
-  backend: [Docker, MySQL],
+  backend: [Docker, MySQL, Node],
   
   metodologiasAgeis: [Scrum, Kanban]
 }
@@ -33,6 +33,7 @@ const skills = {
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
