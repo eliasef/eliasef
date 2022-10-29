@@ -7,7 +7,7 @@ document.write("Hello World");
 var aboutMe = {
   cursando: 'Desenvolvimento Full Stack na Trybe',
   aprendendo: 'Node',
-  interesse: 'Front-End'
+  interesse: 'Back-End'
 }
 
 const skills = {
