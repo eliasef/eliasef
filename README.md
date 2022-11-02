@@ -81,7 +81,11 @@ const skills = {
 </table>
 <br>
   </div>
-  
+
+---
+
+<h1 align="center">GitHub Statistics</h1>
+
 <div align="center"> 
      <a href="https://github.com/eliasef">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=eliasef&show_icons=true&theme=react" alt="eliasef" />
@@ -89,6 +93,9 @@ const skills = {
 <a href="https://github.com/eliasef">
   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasef&layout=compact&theme=react" alt="eliasef" />
 </a>
+  <a href="https://git.io/streak-stats">
+    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=eliasef&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
     
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
