@@ -12,7 +12,7 @@ const skills = {
 
 var aboutMe = {
   aprendendo: 'Aprofundando-se em React Native',
-  interesse: 'Desenvolvimento FrontEnd Mobile...'
+  interesse: 'FrontEnd Mobile'
 }
 
 
