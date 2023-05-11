@@ -1,21 +1,20 @@
 # Hello!
 
 ```js
-const name = 'Elias Ferreira';
-document.write("Hello World");
-
-var aboutMe = {
-  aprendendo: 'API's React Native',
-  interesse: 'Development FrontEnd Mobile...'
-}
 
 const skills = {
   frontend: [Javascript, HTML, CSS, Git, React Native, Redux, Context API, Browser Router, RTL, Jest, Bootstrap],
-  
+
   backend: [Docker, MySQL, Node, Express.js],
-  
+
   metodologiasAgeis: [Scrum, Kanban]
 }
+
+var aboutMe = {
+  aprendendo: 'API's React Native',
+  interesse: 'Desenvolvimento FrontEnd Mobile...'
+}
+
 
 ```
 
