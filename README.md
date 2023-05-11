@@ -11,7 +11,7 @@ const skills = {
 }
 
 var aboutMe = {
-  aprendendo: 'API's React Native',
+  aprendendo: 'Aprofundando-se em React Native',
   interesse: 'Desenvolvimento FrontEnd Mobile...'
 }
 
