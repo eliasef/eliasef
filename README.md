@@ -3,7 +3,7 @@
 ```js
 
 const skills = {
-  frontend: [Javascript, HTML, CSS, Git, React Native, Redux, Context API, Browser Router, RTL, Jest, Bootstrap],
+  frontend: [Javascript, HTML, CSS, React Native, Redux, Context API, Typescript, Git, Browser Router, RTL, Jest, Bootstrap],
 
   backend: [Docker, MySQL, Node, Express.js],
 
@@ -27,6 +27,7 @@ var aboutMe = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Ts]()
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
