@@ -106,7 +106,7 @@ var aboutMe = {
 <div align="center">
    <a href="https://www.linkedin.com/in/eliasef/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:eliasef0305@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/c/eliasef" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ 
 <p>Profile views since 12/31/2021:</p>
     <p><img alingn="center" src="https://profile-counter.glitch.me/eliasef/count.svg"></p>
   </div>
