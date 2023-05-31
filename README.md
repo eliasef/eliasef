@@ -50,13 +50,13 @@ var aboutMe = {
 <table>
   <tr>
    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/eliasef/api-pokedex">Pokédex Mobile</a></h2>
-      <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex-capa2.jpg" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/eliasef/api-pokedex">Pokédex</a></h2>
+      <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/projeto-de-pokedex.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, UI interface.</em></p>
-      <p>:us: Pokemóns card made with Js and UI design.</p>
-      <p>:brazil: Cards de Pokémons feito com Js e UI design.</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Axios, Typescript, React Hooks & Props, Styled Components, Reanimated V2.</em></p>
+      <p>:us: App to list, search and see attributes of pokemons.</p>
+      <p>:brazil: App para listar, pesquisar e ver atributos de pokémons.</p>
     </td>
     <td valign="top" width="50%">
      <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex</a></h2>
