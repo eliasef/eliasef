@@ -50,8 +50,8 @@ var aboutMe = {
 <table>
   <tr>
    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex</a></h2>
-      <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/eliasef/api-pokedex">Pokédex Mobile</a></h2>
+      <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex-capa2.jpg" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, UI interface.</em></p>
@@ -59,13 +59,13 @@ var aboutMe = {
       <p>:brazil: Cards de Pokémons feito com Js e UI design.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://eliasef.github.io/trybeflix/">Trybeflix</a></h2>
-      <a href="https://eliasef.github.io/trybeflix/"><img width="100%" src="./images/trybeflix.png" alt="Project-preview" /></a>
+     <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex</a></h2>
+      <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, HTML, CSS, JavaScript.</em></p>
-      <p>:us: Trybeflix is a Redux preject that recommends some movies for the user.</p>
-      <p>:brazil: Trybeflix é um projeto Redux que recomenda alguns filmes para o usuário.</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript, UI interface.</em></p>
+      <p>:us: Pokemóns card made with Js and UI design.</p>
+      <p>:brazil: Cards de Pokémons feito com Js e UI design.</p>
     </td>
     </tr>
     <tr>
