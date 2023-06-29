@@ -8,7 +8,7 @@ const skills = {
   backend: [Docker, MySQL, Node, Express.js],
 
   metodologiasAgeis: [Scrum, Kanban]
-};
+}
 
 var aboutMe = {
   aprendendo: 'Aprofundando-se em React Native',
