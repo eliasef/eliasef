@@ -46,7 +46,7 @@ var aboutMe = {
 ---
 
 <h1 align="center">Main Projects</h1>
-  
+
 <div align="center">
 <table>
   <tr>
@@ -79,8 +79,7 @@ var aboutMe = {
       <p>:us: Pokemóns card made with Js and UI design.</p>
       <p>:brazil: Cards de Pokémons feito com Js e UI design.</p>
     </td>
-    
-    </tr>
+
 </table>
 <br>
   </div>
