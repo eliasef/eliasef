@@ -55,11 +55,22 @@ var aboutMe = {
       <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/projeto-de-pokedex.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Axios, Typescript, React Hooks & Props, Styled Components, Reanimated V2.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Axios, Typescript, React Hooks & Props, React Navigation, Styled Components, Reanimated V2.</em></p>
       <p>:us: App to list, search and see attributes of pokemons.</p>
       <p>:brazil: App para listar, pesquisar e ver atributos de pokémons.</p>
     </td>
     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/eliasef/uber-clone">Uber</a></h2>
+      <a href="https://github.com/eliasef/uber-clone"><img width="100%" src="./images/capauber.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Redux Toolkit, API Google Autocomplete, React Navigation, Tailwind CSS, Function Components, React Hooks, Expo. </em></p>
+      <p>:us: App to order Uber, see the total distance and time and how much you have to pay.
+      <p>:brazil: App para pedir Uber, ver a distância e tempo total e quanto você tem que pagar.</p>
+    </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
      <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex</a></h2>
       <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
       <br>
@@ -68,17 +79,7 @@ var aboutMe = {
       <p>:us: Pokemóns card made with Js and UI design.</p>
       <p>:brazil: Cards de Pokémons feito com Js e UI design.</p>
     </td>
-    </tr>
-    <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://eliasef.github.io/calculator/">Calculator</a></h2>
-      <a href="https://eliasef.github.io/calculator/"><img width="100%" src="./images/calculator2.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), HTML, CSS, JavaScript.</em></p>
-      <p>:us: Calculator project, being able to add, subtract, multiply and divide.
-      <p>:brazil: Projeto de calculadora, podendo somar, diminuir, multiplicar e dividir.</p>
-    </td>
+    
     </tr>
 </table>
 <br>
