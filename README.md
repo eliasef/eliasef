@@ -72,7 +72,7 @@ var aboutMe = {
     <tr>
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://www.eletrotekcellfortaleza.com.br/">Eletrotekcell</a></h2>
-      <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/eletrotekcell-r2.png" alt="Project-preview" /></a>
+      <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/eletrotekcell-r3.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React.js, React Hooks, Javascript, CSS, Git, JSX.</em></p>
