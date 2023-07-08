@@ -76,7 +76,7 @@ var aboutMe = {
       <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/projeto-de-pokedex.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Typescript, Axios, React Hooks & Props, Functional Components, React Navigation, Styled Components, Reanimated V2.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Typescript, Axios, React Hooks & Props, Functional Components, React Navigation, Styled Components, Reanimated V2, Expo.</em></p>
       <p>:us: App to list, search and see attributes of pokemons.</p>
       <p>:brazil: App para listar, pesquisar e ver atributos de pokémons.</p>
     </td>
@@ -85,7 +85,7 @@ var aboutMe = {
       <a href="https://github.com/eliasef/insta-clone"><img width="100%" src="./images/instaclonecapa.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, React Hooks & Props, Functional Components, React Navigation, Styled Components.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, React Hooks & Props, Functional Components, React Navigation, Styled Components, Expo.</em></p>
       <p>:us: Application that lists posts just like Instagram.</p>
       <p>:brazil: Aplicativo que lista posts assim como o Instagram.</p>
     </td>
