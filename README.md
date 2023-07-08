@@ -52,7 +52,7 @@ var aboutMe = {
 <table>
   <tr>
    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/eliasef/uber-clone">Uber</a></h2>
+      <h2 align="center"><a href="https://github.com/eliasef/uber-clone">Uber Clone</a></h2>
       <a href="https://github.com/eliasef/uber-clone"><img width="100%" src="./images/capauber.png" alt="Project-preview" /></a>
       <br>
       <br>
@@ -81,7 +81,7 @@ var aboutMe = {
       <p>:brazil: App para listar, pesquisar e ver atributos de pokémons.</p>
     </td>
       <td valign="top" width="50%">
-     <h2 align="center"><a href="https://www.eletrotekcellfortaleza.com.br/">Eletrotekcell</a></h2>
+     <h2 align="center"><a href="https://www.eletrotekcellfortaleza.com.br/">Instagram Clone</a></h2>
       <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/eletrotekcell-r3.png" alt="Project-preview" /></a>
       <br>
       <br>
@@ -91,7 +91,16 @@ var aboutMe = {
     </td>
     <tr>
       <td valign="top" width="50%">
-        <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex</a></h2>
+      <h2 align="center"><a href="https://www.eletrotekcellfortaleza.com.br/">Eletrotekcell</a></h2>
+      <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/eletrotekcell-r3.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React.js, React Hooks, Javascript, CSS, Git, JSX.</em></p>
+      <p>:us: A Landing Page project from a company called Eletrotekcell.</p>
+      <p>:brazil: Um projeto de Landing Page de uma empresa chamada Eletrotekcell.</p>
+    </td>
+    <td valign="top" width="50%">
+        <h2 align="center"><a href="https://eliasef.github.io/pokedex/">Pokédex Web</a></h2>
       <a href="https://eliasef.github.io/pokedex/"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
       <br>
       <br>
