@@ -95,7 +95,7 @@ var aboutMe = {
       <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/eletrotekcell-r3.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React.js, React Hooks, Javascript, HTML, CSS, Git, JSX.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React.js, React Router V6, React Hooks, Javascript, HTML, CSS, Git, JSX.</em></p>
       <p>:us: A Landing Page project from a company called Eletrotekcell.</p>
       <p>:brazil: Um projeto de Landing Page de uma empresa chamada Eletrotekcell.</p>
     </td>
