@@ -56,7 +56,7 @@ var aboutMe = {
       <a href="https://github.com/eliasef/uber-clone"><img width="100%" src="./images/capauber.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Redux Toolkit, API Google Autocomplete, React Navigation, Tailwind CSS, Function Components, React Hooks, Expo. </em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Redux Toolkit, API Google Autocomplete, React Navigation, Tailwind CSS, Functional Components, React Hooks, Expo. </em></p>
       <p>:us: App to order Uber, see the total distance and time and how much you have to pay.
       <p>:brazil: App para pedir Uber, ver a distância e tempo total e quanto você tem que pagar.</p>
     </td>
@@ -76,7 +76,7 @@ var aboutMe = {
       <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/projeto-de-pokedex.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Typescript, Axios, React Hooks & Props, React Navigation, Styled Components, Reanimated V2.</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, Typescript, Axios, React Hooks & Props, Functional Components, React Navigation, Styled Components, Reanimated V2.</em></p>
       <p>:us: App to list, search and see attributes of pokemons.</p>
       <p>:brazil: App para listar, pesquisar e ver atributos de pokémons.</p>
     </td>
