@@ -62,7 +62,7 @@ var aboutMe = {
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/eliasef/api-pokedex">Portfolio</a></h2>
-      <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/portfolio.png" alt="Project-preview" /></a>
+      <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
@@ -82,7 +82,7 @@ var aboutMe = {
     </td>
       <td valign="top" width="50%">
      <h2 align="center"><a href="https://www.eletrotekcellfortaleza.com.br/">Instagram Clone</a></h2>
-      <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/eletrotekcell-r3.png" alt="Project-preview" /></a>
+      <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/instaclonecapa.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React.js, React Hooks, Javascript, CSS, Git, JSX.</em></p>
