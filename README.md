@@ -81,8 +81,8 @@ var aboutMe = {
       <p>:brazil: App para listar, pesquisar e ver atributos de pokémons.</p>
     </td>
       <td valign="top" width="50%">
-     <h2 align="center"><a href="https://www.eletrotekcellfortaleza.com.br/">Instagram Clone</a></h2>
-      <a href="https://www.eletrotekcellfortaleza.com.br/"><img width="100%" src="./images/instaclonecapa.png" alt="Project-preview" /></a>
+     <h2 align="center"><a href="https://github.com/eliasef/insta-clone">Instagram Clone</a></h2>
+      <a href="https://github.com/eliasef/insta-clone"><img width="100%" src="./images/instaclonecapa.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, React Hooks & Props, Functional Components, React Navigation, Styled Components.</em></p>
