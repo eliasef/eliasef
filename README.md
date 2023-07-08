@@ -86,8 +86,8 @@ var aboutMe = {
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React Native, React Hooks & Props, Functional Components, React Navigation, Styled Components.</em></p>
-      <p>:us: Aplicativo que lista posts assim como instagram.</p>
-      <p>:brazil: Um projeto de Landing Page de uma empresa chamada Eletrotekcell.</p>
+      <p>:us: Application that lists posts just like Instagram.</p>
+      <p>:brazil: Aplicativo que lista posts assim como o Instagram.</p>
     </td>
     <tr>
       <td valign="top" width="50%">
