@@ -11,7 +11,7 @@ const skills = {
 };
 
 var aboutMe = {
-  aprendendo: 'Aprofundando-se em React Native',
+  aprendendo: 'Aprofundando-se em projetos Frontend',
   interesse: 'FrontEnd Web e Mobile'
 };
 
