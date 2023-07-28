@@ -61,7 +61,7 @@ var aboutMe = {
       <p>:brazil: App para pedir Uber, ver a distância e tempo total e quanto você tem que pagar.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/eliasef/portfolio-elias">Portfolio</a></h2>
+      <h2 align="center"><a href="https://github.com/eliasef/portfolio-elias">Portfólio</a></h2>
       <a href="https://eliasef.vercel.app/"><img width="100%" src="./images/portfolio.jpg" alt="Project-preview" /></a>
       <br>
       <br>
