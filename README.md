@@ -62,10 +62,10 @@ var aboutMe = {
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/eliasef/api-pokedex">Portfolio</a></h2>
-      <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/portfolio.png" alt="Project-preview" /></a>
+      <a href="https://github.com/eliasef/api-pokedex"><img width="100%" src="./images/portfolio.jpg" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), React Hooks, HTML, CSS, Material UI, JavaScript</em></p>
       <p>:us: My personal portfolio.</p>
       <p>:brazil: Meu portfólio pessoal.</p>
     </td>
